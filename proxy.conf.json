@@ -1,0 +1,8 @@
+{
+  "/emater-rest/*": {
+    "target": "http://wisecracksolution.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
